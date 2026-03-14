@@ -4,7 +4,7 @@
   
   **Telegram & WhatsApp Bots | Web Applications | Automation**
 
-  [![Portfolio](https://img.shields.io/badge/Website-Terminal_Portfolio-10b981?style=for-the-badge&logo=gnometerminal&logoColor=white)](כאן_תשים_את_הלינק_לאתר_שלך)
+  [![Portfolio](https://img.shields.io/badge/Website-Terminal_Portfolio-10b981?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://dev-portfolio-clkk.onrender.com/)
   [![Telegram Channel](https://img.shields.io/badge/Channel-Android_&_AI-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndroidAndAI)
 
 </div>
