@@ -39,7 +39,7 @@
 - **פיצ'רים:** שילוב API של GitHub, תמיכה ב-Markdown, חיפוש מתקדם, וסנכרון נתונים בזמן אמת בין הבוט לאתר.
 
 ### ⚙️ Specialized Bots
-- [**Markdown Trainer**](https://t.me/markdown_trainer_bot) – בוט הדרכה אינטראקטיבי ללימוד ותרגול עיצוב טקסט (Markdown) בטלגרם.
+- [**Markdown Trainer**](https://github.com/amirbiron/MarkdownBot) – בוט הדרכה אינטראקטיבי ללימוד ותרגול עיצוב טקסט (Markdown) בטלגרם.
 - [**Treatment**](https://github.com/amirbiron/Treatment) – מערכת חכמה לניהול ותזכורות תרופות.
 - [**Shalva-bot**](https://github.com/amirbiron/Shalva-bot) – בוט אישי לתמיכה רגשית, הרגעה והתמודדות עם חרדות.
 
